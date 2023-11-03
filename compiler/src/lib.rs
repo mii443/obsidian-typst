@@ -259,6 +259,14 @@ impl SystemWorld {
         add!("DejaVuSansMono-Bold.ttf");
         add!("DejaVuSansMono-Oblique.ttf");
         add!("DejaVuSansMono-BoldOblique.ttf");
+        add!("NotoSerifCJKjp-Black.min.ttf");
+        add!("NotoSerifCJKjp-Bold.min.ttf");
+        add!("NotoSerifCJKjp-ExtraLight.min.ttf");
+        add!("NotoSerifCJKjp-Light.min.ttf");
+        add!("NotoSerifCJKjp-Medium.min.ttf");
+        add!("NotoSerifCJKjp-Regular.min.ttf");
+        add!("NotoSerifCJKjp-SemiBold.min.ttf");
+        add!("NotoSerifCJKjp-VF.min.ttf");
 
         return (book, fonts);
     }
